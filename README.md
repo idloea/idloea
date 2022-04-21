@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idloea
 - 👀 I’m interested in Data Science and Software development good practices
-- 🌱 I’m currently learning Python and open to new stack
+- 🌱 I’m currently working on Python and open to new stacks
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me https://www.linkedin.com/in/ikerdelomaosorio/
 
